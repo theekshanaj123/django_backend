@@ -1,7 +1,3 @@
-from email.mime import image
-from importlib.resources import contents
-from pyexpat import model
-from turtle import title
 from django.db import models
 from django.contrib.postgres.fields import JSONField
 
